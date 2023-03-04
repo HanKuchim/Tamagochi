@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tamagochi", "Tamagochi.csproj", "{B32C8820-9CCB-438B-811A-E7A3317E2ACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B32C8820-9CCB-438B-811A-E7A3317E2ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32C8820-9CCB-438B-811A-E7A3317E2ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B32C8820-9CCB-438B-811A-E7A3317E2ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B32C8820-9CCB-438B-811A-E7A3317E2ACC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C813B15-9DC0-48EA-B9C4-F34B3F8CEAB9}
+	EndGlobalSection
+EndGlobal
